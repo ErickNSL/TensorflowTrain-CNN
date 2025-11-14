@@ -2,3 +2,4 @@ orgimg/
 nvenv/
 __pycache__/
 vispy.py
+.env
